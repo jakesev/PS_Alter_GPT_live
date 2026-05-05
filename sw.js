@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'ps-alter-gpt-v2';
+const CACHE_VERSION = 'ps-alter-gpt-v3';
 const APP_SCOPE = new URL(self.registration.scope).pathname;
 const APP_SHELL = [
   APP_SCOPE,
